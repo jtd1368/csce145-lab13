@@ -46,6 +46,8 @@ public class App extends Application {
             controller.redrawPuzzle();
         });
 
+        controller.redrawPuzzle();
+
         stage.setScene(scene);
         stage.show();
     }

@@ -27,8 +27,6 @@ public class PrimaryController {
                 GridPane.setHalignment(label, HPos.CENTER);
             }
         }
-
-        redrawPuzzle();
     }
 
     void redrawPuzzle() {
